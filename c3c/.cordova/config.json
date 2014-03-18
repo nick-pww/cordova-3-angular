@@ -1,0 +1,8 @@
+{
+    "lib": {
+        "www": {
+            "uri": "/Users/nick/Development/blogs/cordova_3_angular/c3a/app",
+            "link": true
+        }
+    }
+}
